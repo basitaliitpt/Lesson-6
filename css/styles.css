@@ -1,0 +1,24 @@
+body{
+  font-family: Montserrat;
+  text-align: center;
+}
+
+
+#title{
+  background-color: #ff4c68 ;
+  text-align: left;
+}
+
+h1,h2,h3{
+  font-weight: 900;
+}
+
+.container-fluid{
+  padding: 5% 15%;
+}
+.big-heading{
+  line-height: 1.5;
+}
+.title-image{
+  width:60%;
+}
